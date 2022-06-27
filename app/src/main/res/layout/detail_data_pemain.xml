@@ -34,7 +34,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nama :"/>
+            android:text="Nama : "/>
         <TextView
             android:id="@+id/txtNamaPemain"
             android:layout_width="wrap_content"
@@ -52,7 +52,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Tempat Lahir :"/>
+            android:text="Tempat Lahir : "/>
         <TextView
             android:id="@+id/txtTempatLahir"
             android:layout_width="wrap_content"
@@ -70,7 +70,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Tangal Lahir :"/>
+            android:text="Tangal Lahir : "/>
         <TextView
             android:id="@+id/txtTanggalLahir"
             android:layout_width="wrap_content"
@@ -88,7 +88,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Posisi :"/>
+            android:text="Posisi : "/>
         <TextView
             android:id="@+id/txtPosisi"
             android:layout_width="wrap_content"
@@ -106,7 +106,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Tinggi :"/>
+            android:text="Tinggi : "/>
         <TextView
             android:id="@+id/txtTinggi"
             android:layout_width="wrap_content"
